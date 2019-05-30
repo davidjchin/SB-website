@@ -1,0 +1,19 @@
+{
+  "name": "SB",
+  "version": "1.0.0",
+  "description": "server app",
+  "main": "land.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Chin",
+  "license": "ISC",
+  "dependencies": {
+    "body": "^5.1.0",
+    "body-parser": "^1.19.0",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "nodemon": "^1.18.11",
+    "parser": "^0.1.4"
+  }
+}
